@@ -10,6 +10,11 @@ state machine behaviour for one or more game characters, (Agents).
 
 The StateMachine behaviour as described relies on **Blackboard** entities.
 
+Pictured Below: A sample view for the States in the StateMachine with details about a selected State.
+![Node-Editor-State-View](./Images/Unity/NodeEditor/Node-Editor-State-Details-View.png?raw=true "State View")
+
+Pictured below: A sample view for details about a selected StateTransition.
+![Node-Editor-Transition-View](./Images/Unity/NodeEditor/Node-Editor-Transition-Details-View.png?raw=true "Transition View")
 
 ## Organization
 Four sets of classes are used for converting designer-data defined in the UnityEditor
